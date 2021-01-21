@@ -2,9 +2,9 @@
 
 The goal of this project is to build a user friendly, simple, secure and inexpensive/free to host web app that serves as a directory of members of discord and reddit.
 
-Goals: 
+# Goals: 
 
-# User friendly
+## User friendly
 
 Use best practices to build an attractive, fun and user friendly application. 
   
@@ -20,9 +20,9 @@ snissn's preferred architecture:
 * firebase for auth
 * some basic simple managed cloud database - firestore prefered
 
-# Secure
+## Secure
 - use best practices for firebase credentials & back end and vercel+netlifiy hosting
 
-# Inexpensive
+## Inexpensive
 - vercel free tier
 - firebase free tier
