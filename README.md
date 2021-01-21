@@ -5,22 +5,19 @@ The goal of this project is to build a user friendly, simple, secure and inexpen
 Goals: 
 
 User friendly
-
-  Meaning and motvation: 
+Use best practices to build an attractive, fun and user friendly application. 
   
-  Uuse best practices to build an attractive, fun and user friendly application. 
-  
-  This should include:
-    oauth single sign on for easy account creation
-    make the app fully accessible
-    using a css library to make development as effective as possible
+This should include:
+* oauth single sign on for easy account creation
+* Make the app fully accessible
+* Using a css library to make development as effective as possible
 
 Simple
 Build the app as simple as possible
 snissn's preferred architecture:
-- next js + modern css framework hosted on vercel
-- firebase for auth
-- some basic simple managed cloud database - firestore prefered
+* next js + modern css framework hosted on vercel
+* firebase for auth
+* some basic simple managed cloud database - firestore prefered
 
 Secure
 - use best practices for firebase credentials & back end and vercel+netlifiy hosting
