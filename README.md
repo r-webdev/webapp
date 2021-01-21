@@ -5,6 +5,7 @@ The goal of this project is to build a user friendly, simple, secure and inexpen
 Goals: 
 
 User friendly
+
 Use best practices to build an attractive, fun and user friendly application. 
   
 This should include:
